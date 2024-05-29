@@ -2,6 +2,5 @@
 <p align="center">API utilizada <a href="https://openweathermap.org/">OpenWeatherAPI</a></p>
 
 <div align='center'>
-  <h2>Página inicial:</h2>
-<img src="https://i.ibb.co/s9q5XMj/climapp.jpg" alt="climapp" border="0" widht='50px' height='400px'>
+<img src="https://i.ibb.co/s9q5XMj/climapp.jpg" alt="climapp" border="0" widht='80px' height='600px'>
 </div>
