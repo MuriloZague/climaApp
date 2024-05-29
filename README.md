@@ -3,5 +3,5 @@
 
 <div align='center'>
   <h2>Página inicial:</h2>
-<img src="https://i.ibb.co/s9q5XMj/climapp.jpg" alt="climapp" border="0" widht='100px' height='800px'>
+<img src="https://i.ibb.co/s9q5XMj/climapp.jpg" alt="climapp" border="0" widht='50px' height='400px'>
 </div>
