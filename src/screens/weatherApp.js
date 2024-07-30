@@ -9,6 +9,7 @@ const WeatherApp = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [greeting, setGreeting] = useState('');
+  const [ptbr, setptbr] = useState('pt_BR');
 
   const updateGreeting = () => {
     const now = new Date();
