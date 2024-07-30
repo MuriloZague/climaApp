@@ -9,7 +9,7 @@ export const fetchWeather = async (city) => {
         q: city,
         appid: API_KEY,
         units: 'metric',
-        lang: 'pt'
+        lang: 'pt_BR'
       }
     });
     return response.data;
